@@ -1,5 +1,5 @@
 import React from 'react'
-import { SignedIn } from '@clerk/clerk-react'
+
 function About() {
   return (
     <div>

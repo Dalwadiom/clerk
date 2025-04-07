@@ -6,8 +6,8 @@ import { ClerkProvider } from '@clerk/clerk-react'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <ClerkProvider publishableKey={""}>
+    <ClerkProvider publishableKey={"pk_test_ZnJhbmstc25hcHBlci0zMy5jbGVyay5hY2NvdW50cy5kZXYk"}>
       <App />
-    </ClerkProvider>
+    </ClerkProvider>   
   </StrictMode>,
 )

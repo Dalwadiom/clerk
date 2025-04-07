@@ -19,6 +19,12 @@ function Navbar() {
                             <li className="nav-item">
                                 <Link className="nav-link" to="/about">About</Link>
                             </li>
+                            <li className="nav-item">
+                                <Link className="nav-link" to="/sendmail">Send Mail</Link>
+                            </li>
+                            <li className="nav-item">
+                                <Link className="nav-link" to="/slider">Slider</Link>
+                            </li>
 
 
                         </ul>
